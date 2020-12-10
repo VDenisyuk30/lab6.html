@@ -58,8 +58,8 @@
   <div id="content">
    
 <h2>Звіт до лабораторної роботи №3. Тема - Google малюнок</h2> 
-<p>1. <iframe src="Графіка.pdf" width="500" height="500"></iframe></p>
-<p>2. <a href="Графіка.png">Формат *.png</a></p>
+<p>1. <iframe src="Графіка (1).pdf" width="500" height="500"></iframe></p>
+<p>2. <a href="Графіка (1).png">Формат *.png</a></p>
 <p>3. <a href="https://docs.google.com/drawings/d/1KkimMEnjHv3vfccV1SFZzDCQOYCdc82lOtUejBD0HDA/edit?usp=sharing"> Посилання на Гугл малюнок</a></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHvXuaKKUqzEOLCOvdVDc2u1vCEM7ETWj1ZONodqoeVoeV9A49JErKpSwxu2bCJTOiyxbVcSzN0D0D/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
 </iframe>
