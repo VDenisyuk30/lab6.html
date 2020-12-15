@@ -57,7 +57,7 @@
    <div id="header">Сайт-звіт до лабораторних робіт студентки 1 курсу групи "математики" Денисюк Валерії</div>
   <div id="content">
    
-<h2>Звіт до лабораторної роботи №3. Тема - Google малюнок</h2> 
+<h2>Звіт до лабораторної роботи №6. Тема - Google малюнок, до лабораторної роботи №7. Тема - Google форми </h2> 
 <p>1. <iframe src="Графіка (1).pdf" width="500" height="500"></iframe></p>
 <p>2. <a href="Графіка (1).png">Формат *.png</a></p>
 <p>3. <a href="https://docs.google.com/drawings/d/1KkimMEnjHv3vfccV1SFZzDCQOYCdc82lOtUejBD0HDA/edit?usp=sharing"> Посилання на Гугл малюнок</a></p>
