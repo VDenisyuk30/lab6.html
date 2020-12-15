@@ -61,6 +61,9 @@
 <p>1. <iframe src="Графіка (1).pdf" width="500" height="500"></iframe></p>
 <p>2. <a href="Графіка (1).png">Формат *.png</a></p>
 <p>3. <a href="https://docs.google.com/drawings/d/1KkimMEnjHv3vfccV1SFZzDCQOYCdc82lOtUejBD0HDA/edit?usp=sharing"> Посилання на Гугл малюнок</a></p>
+<p>4. <a href="https://docs.google.com/forms/d/e/1FAIpQLScQIinWjYxRp1xq6kwo3tOVWR2XdhRw2HkobKAMaMDtmbrFsQ/viewform?usp=sf_link"> Посилання на Google диск для перегляду тесту</a></p>
+<p>5. <a href="https://docs.google.com/forms/d/1cEc8N3XzUeL9yJmlmHxIHn9XEDIjA2WsLRVPyD2m3zc/edit#responses"> Посилання на Google диск для перегляду результату тесту</a></p>
+<p>6. <a href="https://docs.google.com/spreadsheets/d/1y5ZCzZZysYYaMV6CVmT-0W-i27up8zglwmnXgOT1I5w/edit#gid=113929034"> Посилання на Google Таблиці для перегляду результату тесту</a></p>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSHvXuaKKUqzEOLCOvdVDc2u1vCEM7ETWj1ZONodqoeVoeV9A49JErKpSwxu2bCJTOiyxbVcSzN0D0D/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
 </iframe>
 
